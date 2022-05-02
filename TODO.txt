@@ -58,3 +58,6 @@ Ray:
 + Password disclosure to screen or to log (Done)
 + Unchecked redirects (already in there) (Done)
 + Unencrypted viewstate (Done)
+
+
+Git File .aspx removed
